@@ -1,55 +1,67 @@
-.header{
-    text-align:center;
-    color: white;
-    background-color: blue;
-    padding: 10px;
-    margin: 0px;
+aside{
+  color:white;
+  background-color: cyan;
+  width:30%;
 }
 
-.div1 {
-    background-color: green;
-    color: white;
-
+header{
+  text-align:center;
+  color:white;
+  background-color: blue;
+  padding: 10px;
 }
 
-.div2 {
-    text-align:center;
-    color: white;
-    background-color: Pink;
-    width:60%;
+main{
+  width:70%;
 }
 
-.div3 {
-    text-align:center;
-    color: white;
-    background-color: rgb(202, 47, 47);
-    width:60%;
-    height: 60px;
+aside{
+  text-align:center;
+  float:right;
+  height:169px;
 }
 
-.div4 {
-    background-color: pink;
-    width: 60%;
-    height: 10px;         
+nav{
+  text-align:center;
+  color:white;
+  background-color:green;
 }
 
-.div5 {
-    text-align:center;
-    color: white;
-    background-color: rgb(202, 47, 47);
-    width: 60%;  
-    height: 60px;         
+.div2{
+  text-align:center;
+  color:white;
+  background-color: pink;
+  width:70%;
 }
 
-.div6 {
-    background-color: pink;
-    width: 60%;
+.div3{
+  text-align:center;
+  color:white;
+  background-color:rgb(133, 21, 21);
+  height:60px;
 }
 
-.footer{
-    text-align:center;
-    color: white;
-    background-color: green;
-    padding: 10px;
-    margin: 0px;
+.div4{
+  background-color:pink;
+  height: 10px;
 }
+
+.div5{
+  text-align:center;
+  color: white;
+  background-color: rgb(133,21,21);
+  height:60px;
+}
+
+.div6{
+  background-color:pink;
+  height:20px;
+}
+
+footer{
+  text-align:center;
+  color:white;
+  background-color:green;
+  padding:10px;
+}
+
